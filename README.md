@@ -1,4 +1,5 @@
 **Fake News Detection using Machine Learning Algorithms**
+
 **Overview**
 Welcome to the Fake News Detection project repository! In today's digital age, the proliferation of fake news poses a significant challenge to society. This project aims to address this challenge by leveraging machine learning algorithms to automatically classify news articles as either fake or real based on their textual content.
 
